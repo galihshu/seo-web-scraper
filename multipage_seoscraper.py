@@ -117,7 +117,8 @@ def save_to_csv(data, filename):
 
 # Daftar URL yang akan di-scrape
 urls = [
-    'https://www.codepolitan.com/blog/siapa-bjorka-sebenarnya-hacker-di-balik-kebocoran-data-npwp/'
+    'https://www.example.com/',
+    'https://www.example-1.com/',
 ]
 
 # Melakukan scraping untuk semua URL
